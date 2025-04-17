@@ -1,4 +1,4 @@
-# Guide to Bitz Miner CLI on Eclipse
+# HOW TO GET Bitz Miner CLI on Eclipse
 
 ## What is Bitz?
 - The first ePOW commodity token that anyone can mine on Eclipse.
